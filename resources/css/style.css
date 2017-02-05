@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+.title {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.header {
+  background-image: url("/Users/MikeyThomas/Desktop/Projects/broadway/resources/media/the-flatiron-building.jpg")
+}
+.a-btn {
+  font-size: 18px;
+  color: white;
+}
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+.subheader {
+  font-size: 23px;
+  font-weight: bold;
+}
+.description {
+  font-size: 14px;
+}
+.subbg {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("/Users/MikeyThomas/Desktop/Projects/broadway/resources/media/the-flatiron-building.jpg")
+}
+.info {
+  text-align:left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
